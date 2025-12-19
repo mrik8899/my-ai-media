@@ -1,0 +1,120 @@
+{
+  "business": "Atlas Adventures",
+  "updated": "2025-12-19",
+  "media": {
+    "videos": [
+      {
+        "filename": "atlas-intro.mp4",
+        "title": "Discover the World with Atlas Adventures",
+        "description": "Welcome to Atlas Adventures - Your journey to unforgettable experiences begins here",
+        "keywords": ["intro", "welcome", "about", "atlas", "travel", "agency"]
+      },
+      {
+        "filename": "atlas-dubai-tour.mp4",
+        "title": "Dubai City Tour",
+        "description": "Experience the modern marvel of Dubai - from Burj Khalifa to desert safaris",
+        "keywords": ["dubai", "uae", "burj khalifa", "city", "desert", "luxury"]
+      },
+      {
+        "filename": "atlas-turkey-cappadocia.mp4",
+        "title": "Cappadocia Hot Air Balloon Experience",
+        "description": "Soar over the fairy chimneys of Cappadocia in a magical hot air balloon ride",
+        "keywords": ["turkey", "cappadocia", "balloon", "hot air", "fairy chimneys", "unique"]
+      },
+      {
+        "filename": "atlas-maldives-resort.mp4",
+        "title": "Maldives Luxury Resort Tour",
+        "description": "Your dream honeymoon destination - overwater villas and crystal clear waters",
+        "keywords": ["maldives", "honeymoon", "luxury", "beach", "resort", "romantic", "villa"]
+      },
+      {
+        "filename": "atlas-adventure-montage.mp4",
+        "title": "Adventure Travel Highlights",
+        "description": "For thrill-seekers: mountains, trekking, and outdoor adventures around the world",
+        "keywords": ["adventure", "trekking", "hiking", "mountains", "outdoor", "extreme"]
+      }
+    ],
+    "images": [
+      {
+        "filename": "atlas-dubai-skyline.jpg",
+        "title": "Dubai Skyline with Burj Khalifa",
+        "description": "Iconic Dubai cityscape featuring the world's tallest building",
+        "keywords": ["dubai", "skyline", "burj khalifa", "city", "modern", "luxury"]
+      },
+      {
+        "filename": "atlas-dubai-desert.jpg",
+        "title": "Dubai Desert Safari",
+        "description": "Experience traditional desert culture with thrilling safari adventures",
+        "keywords": ["dubai", "desert", "safari", "adventure", "sand", "sunset"]
+      },
+      {
+        "filename": "atlas-turkey-balloon.jpg",
+        "title": "Cappadocia Hot Air Balloons",
+        "description": "Sunrise over hundreds of hot air balloons in Cappadocia's unique landscape",
+        "keywords": ["turkey", "cappadocia", "balloon", "hot air", "sunrise", "iconic"]
+      },
+      {
+        "filename": "atlas-turkey-istanbul.jpg",
+        "title": "Istanbul Historic Sites",
+        "description": "Hagia Sophia and Blue Mosque - where East meets West",
+        "keywords": ["turkey", "istanbul", "hagia sophia", "mosque", "culture", "historic"]
+      },
+      {
+        "filename": "atlas-thailand-beach.jpg",
+        "title": "Thailand Tropical Paradise",
+        "description": "Phuket's stunning beaches with crystal waters and traditional longtail boats",
+        "keywords": ["thailand", "phuket", "beach", "tropical", "island", "paradise"]
+      },
+      {
+        "filename": "atlas-thailand-temple.jpg",
+        "title": "Bangkok Golden Temple",
+        "description": "Magnificent Thai temples showcasing ancient Buddhist architecture",
+        "keywords": ["thailand", "bangkok", "temple", "culture", "buddhist", "gold"]
+      },
+      {
+        "filename": "atlas-maldives-villa.jpg",
+        "title": "Maldives Overwater Villa",
+        "description": "Luxury overwater bungalows - the ultimate honeymoon destination",
+        "keywords": ["maldives", "villa", "overwater", "luxury", "honeymoon", "romantic", "beach"]
+      },
+      {
+        "filename": "atlas-europe-paris.jpg",
+        "title": "Paris Eiffel Tower",
+        "description": "The City of Light - iconic Eiffel Tower and Parisian romance",
+        "keywords": ["europe", "paris", "france", "eiffel tower", "romantic", "city"]
+      },
+      {
+        "filename": "atlas-europe-switzerland.jpg",
+        "title": "Swiss Alps Village",
+        "description": "Breathtaking alpine scenery and charming mountain villages",
+        "keywords": ["europe", "switzerland", "alps", "mountains", "village", "scenic"]
+      },
+      {
+        "filename": "atlas-pakistan-hunza.jpg",
+        "title": "Hunza Valley Pakistan",
+        "description": "Majestic Northern Areas - mountains, valleys, and pristine nature",
+        "keywords": ["pakistan", "hunza", "skardu", "mountains", "northern areas", "adventure", "nature"]
+      },
+      {
+        "filename": "atlas-honeymoon-couple.jpg",
+        "title": "Romantic Honeymoon Destination",
+        "description": "Perfect romantic getaways for newlyweds and couples",
+        "keywords": ["honeymoon", "romantic", "couple", "beach", "sunset", "wedding trip"]
+      },
+      {
+        "filename": "atlas-family-travel.jpg",
+        "title": "Family Vacation Adventure",
+        "description": "Create lasting memories with family-friendly travel experiences",
+        "keywords": ["family", "kids", "children", "vacation", "travel", "group"]
+      }
+    ],
+    "documents": [
+      {
+        "filename": "atlas-travel-catalog-2025.pdf",
+        "title": "Atlas Adventures 2025 Travel Catalog",
+        "description": "Complete guide to all our destinations, packages, and pricing",
+        "keywords": ["catalog", "brochure", "packages", "prices", "destinations", "all"]
+      }
+    ]
+  }
+}
